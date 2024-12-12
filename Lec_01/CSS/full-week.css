@@ -1,0 +1,32 @@
+ol{
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+h1{
+    font-size: 48px;
+    color: rgb(71, 62, 62);
+    margin: 12px 0;
+
+}
+a{
+    background-color: rgb(167, 1, 78);
+    color: white;
+    border-radius: 4px;
+    padding: 12px 48px;
+
+
+}
+a:hover{
+text-decoration: none;
+background-color: rgb(141, 4, 68);
+}
+li{
+    padding: 16px;
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
+    margin: 32px;
+
+}
